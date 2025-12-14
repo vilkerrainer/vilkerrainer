@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">👋 Hi, I'm <b>Vilker Rainer</b></h1>
+<h1 align="center">Hi, I'm <b>Vilker Rainer</b></h1>
 <p align="center">
   Back-End Developer Student • Python & APIs • Seeking Internship
 </p>
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔭 About Me
+## About Me
 
 I'm a **Back-End Developer student** focused on building APIs and backend systems using **Python**.  
 Currently studying **Systems Analysis and Development (ADS)** and preparing for my **first internship opportunity**.
@@ -23,9 +23,9 @@ I enjoy solving problems, structuring systems, and improving my skills through h
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 50 Days of Python
+### 50 Days of Python
 Daily Python coding challenge focused on logic, fundamentals, and backend-related concepts.  
 🔗 https://github.com/vilkerrainer/50-Days
 
@@ -36,7 +36,7 @@ Python system that records audio, transcribes it to text, sends it to an AI API,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** Python
 - **Backend:** FastAPI
@@ -46,7 +46,7 @@ Python system that records audio, transcribes it to text, sends it to an AI API,
 
 ---
 
-## 📚 Continuous Learning
+## Continuous Learning
 
 <p>
   <a href="https://web.dio.me/users/vilkerrainer1" target="_blank">
@@ -60,7 +60,7 @@ Python system that records audio, transcribes it to text, sends it to an AI API,
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vilkerrainer&show_icons=true&theme=tokyonight" width="48%"/>
@@ -69,10 +69,10 @@ Python system that records audio, transcribes it to text, sends it to an AI API,
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 Email: vilkerrainer1@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/vilker-rainer/
+- Email: vilkerrainer1@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/vilker-rainer/
 
 ---
 
