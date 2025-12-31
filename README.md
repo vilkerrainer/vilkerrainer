@@ -1,41 +1,69 @@
-# Olá, eu sou o Vílker Rainer!
+# Vilker Rainer
 
-Desenvolvedor em constante aprendizado, criando projetos para explorar novas tecnologias e consolidar conhecimentos. Aqui você encontra desde estudos de fundamentos até aplicações mais complexas.
-
-## Estatísticas do GitHub
-
-Aqui está um resumo da minha atividade e das linguagens que mais uso:
-
-| Estatísticas Gerais | Linguagens Mais Usadas |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilkerrainer&show_icons=true&theme=default&hide_title=true&hide=issues) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilkerrainer&layout=compact&theme=default&hide_title=true) |
-
-*Os dados são gerados dinamicamente e podem levar alguns minutos para atualizar.*
-
-## Projetos em Destaque
-
-Alguns dos meus repositórios públicos:
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[IA-Com-Voz](https://github.com/vilkerrainer/IA-Com-Voz)** | Sistema Python que grava áudio, transcreve para texto, envia para uma API de IA e converte a resposta em áudio. | Python, Whisper, gTTS, Google Generative AI |
-| **[50-Days](https://github.com/vkerrainer/50-Days)** | Desafio de 50 dias de projetos e estudos em Python. | Python |
-| **[CRUD](https://github.com/vilkerrainer/CRUD)** | Aplicação CRUD (Create, Read, Update, Delete) para estudo. | Python, C#, C++, TypeScript |
-| **[DeepSeek-LLM](https://github.com/vilkerrainer/DeepSeek-LLM)** | Projeto envolvendo o modelo de linguagem DeepSeek. | Makefile |
-
-*Você pode explorar todos os meus 25 repositórios públicos [aqui](https://github.com/vilkerrainer?tab=repositories).*
-
-## Tecnologias e Ferramentas
-
-Linguagens e ferramentas com as quais tenho trabalhado:
-
-Python • Java • C# • TypeScript • HTML5 • CSS3 • Jupyter Notebook
-
-## Conecte-se comigo
-
-- **Portfólio:** [portifolio-henna-eta.vercel.app](https://portifolio-henna-eta.vercel.app/#page1)
-- **GitHub:** [vilkerrainer](https://github.com/vilkerrainer)
+Full-Stack Developer | Python & Back-End Focus  
+Brazil • ADS Student
 
 ---
 
-*Última atualização: 31 de dezembro de 2025.*
+## About Me | Sobre mim
+
+**PT-BR**  
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end, APIs, automações e estruturas de dados.  
+Atualmente mantenho uma rotina consistente de estudos e projetos públicos, com foco em evolução contínua e código limpo.
+
+**EN**  
+I am a Systems Analysis and Development student focused on back-end development, APIs, automation, and data structures.  
+I maintain a consistent public project routine focused on continuous improvement and clean code.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vilkerrainer&show_icons=true&theme=transparent&hide_title=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilkerrainer&layout=compact&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vilkerrainer&theme=github-compact"/>
+</p>
+
+These cards update automatically and display:
+- Total public repositories  
+- Main languages and usage percentage  
+- Commits and contributions  
+
+---
+
+## Featured Project
+
+### 50 Days Challenge
+
+Repository:  
+https://github.com/vilkerrainer/50_days
+
+A complete 50-day coding challenge focused on daily Python projects, data structures, algorithms, performance analysis, and automation.  
+This project represents discipline, long-term consistency, and continuous learning.
+
+---
+
+## Main Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/vilker-rainer/
+
+GitHub  
+https://github.com/vilkerrainer
