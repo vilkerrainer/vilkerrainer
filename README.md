@@ -20,8 +20,8 @@ I maintain a consistent public project routine focused on continuous improvement
 ## GitHub Statistics
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vilkerrainer&show_icons=true&theme=transparent&hide_title=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilkerrainer&layout=compact&theme=transparent"/>
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vilkerrainer&show_icons=true&hide_title=true&count_private=true&theme=transparent"/>
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vilkerrainer&layout=compact&theme=transparent"/>
 </p>
 
 <p align="center">
