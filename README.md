@@ -1,81 +1,47 @@
-<!-- Profile README -->
+# 👋 Olá, eu sou o Vilker Rainer!
 
-<h1 align="center">Hi, I'm <b>Vilker Rainer</b></h1>
-<p align="center">
-  Back-End Developer Student • Python & APIs • Seeking Internship
-</p>
+Desenvolvedor em constante aprendizado, criando projetos para explorar novas tecnologias e consolidar conhecimentos. Aqui você encontra desde estudos de fundamentos até aplicações mais complexas.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=flat&logo=github"/>
-</p>
+## 📊 Estatísticas do GitHub
 
----
+Aqui está um resumo da minha atividade e das linguagens que mais uso:
 
-## About Me
+| Estatísticas Gerais | Linguagens Mais Usadas |
+| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilkerrainer&show_icons=true&theme=default&hide_title=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilkerrainer&layout=compact&theme=default&hide_title=true) |
 
-I'm a **Back-End Developer student** focused on building APIs and backend systems using **Python**.  
-Currently studying **Systems Analysis and Development (ADS)** and preparing for my **first internship opportunity**.
+> *Os dados são gerados dinamicamente e podem levar alguns minutos para atualizar.*
 
-I enjoy solving problems, structuring systems, and improving my skills through hands-on projects and daily coding.
+## 🚀 Projetos em Destaque
 
----
+Alguns dos meus repositórios públicos:
 
-## Featured Projects
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[IA-Com-Voz](https://github.com/vilkerrainer/IA-Com-Voz)** | Sistema Python que grava áudio, transcreve para texto, envia para uma API de IA e converte a resposta em áudio. | `Python` `Whisper` `gTTS` `Google Generative AI` |
+| **[50-Days](https://github.com/vkerrainer/50-Days)** | Desafio de 50 dias de projetos e estudos em Python. | `Python` |
+| **[CRUD](https://github.com/vilkerrainer/CRUD)** | Aplicação CRUD (Create, Read, Update, Delete) para estudo. | `Python` `C#` `C++` `TypeScript` |
+| **[DeepSeek-LLM](https://github.com/vilkerrainer/DeepSeek-LLM)** | Projeto envolvendo o modelo de linguagem DeepSeek. | `Makefile` `MIT License` |
 
-### 50 Days of Python
-Daily Python coding challenge focused on logic, fundamentals, and backend-related concepts.  
-🔗 https://github.com/vilkerrainer/50-Days
+*Você pode explorar todos os meus **25 repositórios públicos** [aqui](https://github.com/vilkerrainer?tab=repositories).*
 
-### 🎙️ AI Voice Assistant
-Python system that records audio, transcribes it to text, sends it to an AI API, and converts the response back to audio.  
-**Tech:** Python, Whisper, gTTS, Google Generative AI  
-🔗 https://github.com/vilkerrainer/IA-Com-Voz
+## 🛠️ Tecnologias e Ferramentas
 
----
+Linguagens e ferramentas com as quais tenho trabalhado:
 
-## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-- **Languages:** Python
-- **Backend:** FastAPI
-- **Database:** PostgreSQL
-- **Tools:** Git, GitHub, VS Code
-- **Concepts:** REST APIs, Backend Logic, Clean Code
+## 📫 Conecte-se comigo
+
+- **Portfólio:** [portifolio-henna-eta.vercel.app](https://portifolio-henna-eta.vercel.app/#page1)
+- **GitHub:** [@vilkerrainer](https://github.com/vilkerrainer)
 
 ---
 
-## Continuous Learning
-
-<p>
-  <a href="https://web.dio.me/users/vilkerrainer1" target="_blank">
-    <img src="https://img.shields.io/badge/DIO%20Platform-Continuous%20Learning-blue?style=flat&logo=bookstack&logoColor=white"/>
-  </a>
-</p>
-
-- Backend fundamentals
-- Python and API development
-- Practical challenges and projects
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vilkerrainer&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilkerrainer&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-## Contact
-
-- Email: vilkerrainer1@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/vilker-rainer/
-
----
-
-<p align="center">
-  <i>Focused on learning, consistency, and building real backend solutions.</i>
-</p>
+*Última atualização: 31 de dezembro de 2025.*
