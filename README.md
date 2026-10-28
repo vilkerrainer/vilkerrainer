@@ -83,7 +83,7 @@ Foi o projeto que mais me ensinou, mais pela disciplina de aparecer todo dia do 
 
 ## Vamos conversar
 
-Estou aberto a oportunidades, projetos em conjunto ou só uma boa conversa sobre back-end. O jeito mais fácil de me encontrar é pelo [LinkedIn](https://www.linkedin.com/in/vilker-rainer/).
+Estou aberto a oportunidades, projetos em conjunto ou só uma boa conversa. O jeito mais fácil de me encontrar é pelo [LinkedIn](https://www.linkedin.com/in/vilker-rainer/).
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:1f6feb,100:0d1117&height=100&section=footer"/>
