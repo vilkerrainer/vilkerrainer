@@ -47,7 +47,7 @@ Python é minha linguagem principal. Uso Flask para APIs, PostgreSQL para guarda
 <tr>
 <td>
 
-### [50 Days Challenge](https://github.com/vilkerrainer/50_days)
+### [50 Days Challenge](https://github.com/vilkerrainer/50-Days)
 
 Cinquenta dias seguidos escrevendo Python. Cada dia um projeto novo, passando por estruturas de dados, algoritmos, análise de performance e automações.
 
@@ -55,8 +55,8 @@ Foi o projeto que mais me ensinou, mais pela disciplina de aparecer todo dia do 
 
 </td>
 <td width="40%">
-  <a href="https://github.com/vilkerrainer/50_days">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vilkerrainer&repo=50_days&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/vilkerrainer/50-Days">
+    <img src="./profile/pin-50-days.svg"/>
   </a>
 </td>
 </tr>
@@ -67,8 +67,8 @@ Foi o projeto que mais me ensinou, mais pela disciplina de aparecer todo dia do 
 ## Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vilkerrainer&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vilkerrainer&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6"/>
+  <img height="165" src="./profile/stats.svg"/>
+  <img height="165" src="./profile/top-langs.svg"/>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Foi o projeto que mais me ensinou, mais pela disciplina de aparecer todo dia do 
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vilkerrainer&theme=tokyo-night&hide_border=true&area=true&radius=10"/>
+  <img width="100%" src="./profile/contribuicoes.svg"/>
 </p>
 
 ---
